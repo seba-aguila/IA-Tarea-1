@@ -1,0 +1,9 @@
+Init: A
+Goal: D
+A 10
+B 7
+C 10
+D 3
+A, B, 11
+B, C, 6
+C, A, 3
