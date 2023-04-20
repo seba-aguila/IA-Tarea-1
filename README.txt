@@ -1,4 +1,4 @@
-Tarea 1 Inteligencia Artificia
+Tarea 1 Inteligencia Artificial
 
 Estudiante: Sebastián Águila Montecino
 
